@@ -16,7 +16,7 @@ const Footer = () => {
                 <img src={logo} className='mb-5 w-32' alt="Logo" />
                 {/* Company description text */}
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    dummy text try tey again i dont know what else to write right now so this will have to do change this later
+                RAEVOLVE is a modern clothing brand built for movement, style, and self-expression. We create pieces that feel as good as they look—versatile, comfortable, and made to evolve with you. Fashion that fits your lifestyle, not the other way around.
                 </p>
             </div>
 

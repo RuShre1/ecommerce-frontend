@@ -115,8 +115,8 @@ const Product = () => {
       </div>
         {/* Description content */}
         <div className='flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500'>
-          <p>dummy text</p>
-          <p>other text</p>
+          <p>Effortlessly stylish and built for comfort, these pieces are designed to fit seamlessly into your everyday life. </p>
+          <p>Timeless, versatile, and made to move with you—wherever you go.</p>
         </div>
      </div>
      {/*--------------------Display related products ------------------------------ */}

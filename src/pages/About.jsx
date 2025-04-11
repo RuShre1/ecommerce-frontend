@@ -20,10 +20,10 @@ const About = () => {
         <img className='w-full md:max-w-[400px]' src={about} alt="" />
         {/* Company description text */}
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-            <p> dummy text COME BACK LATER</p>
-            <p> anotehr dummy text for about</p>
+            <p> At RAEVOLVE, we dont just keep up with change—we create it. Born out of curiosity, built with purpose, and driven by innovation, RAEVOLVE is a company dedicated to redefining the way people connect with technology. Whether were building intuitive digital tools, designing future-ready platforms, or streamlining everyday experiences, our mission is always the same: evolve with intent, and never settle for ordinary.</p>
+            <p> We believe great ideas are sparked at the intersection of creativity and function. Thats why our team is made up of thinkers, builders, designers, and dreamers—each one passionate about crafting smarter, more meaningful solutions to real-world problems. Were not here just to make products. Were here to make progress. RAEVOLVE  Revolution. Adaptation. Evolution. </p>
             <b className='text-gray-800'>Our Mission</b>
-            <p>another pagraph but for out mission </p>
+            <p>At RAEVOLVE, our mission is to push the boundaries of innovation by building technology that adapts, empowers, and evolves with the world around it. We aim to create products and experiences that aren't just functional—but transformative. By blending thoughtful design with cutting-edge development, we strive to simplify complexity, amplify human potential, and shape a future where technology serves people—not the other way around. Were here to ask better questions, challenge the status quo, and keep evolving—relentlessly, responsibly, and with real impact. </p>
         </div>
       </div>
 
@@ -37,19 +37,19 @@ const About = () => {
         {/* Quality assurance feature box */}
         <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
             <b>Quality Assurance:</b>
-            <p className='text-gray-600'>another dummby propt of how we select our product </p>
+            <p className='text-gray-600'>At RAEVOLVE, quality is built in from day one. We test early, often, and thoroughly—ensuring everything we create is reliable, secure, and ready to perform. No shortcuts, no compromises—just clean, dependable results.</p>
         </div>
 
         {/* Convenience feature box */}
         <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
             <b>Convenience:</b>
-            <p className='text-gray-600'>another one </p>
+            <p className='text-gray-600'>We design with real life in mind. At RAEVOLVE, convenience means intuitive experiences, seamless navigation, and solutions that just make sense—so users can get what they need, when they need it, without the hassle.</p>
         </div>
 
         {/* Customer service feature box */}
         <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
             <b>Exceptional Customer Service:</b>
-            <p className='text-gray-600'>another one </p>
+            <p className='text-gray-600'>At RAEVOLVE, we believe great service builds lasting relationships. Our team is here to help—solving problems, answering questions, and making sure your experience is smooth and positive.</p>
         </div>  
       </div>
 

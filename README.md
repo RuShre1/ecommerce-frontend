@@ -22,9 +22,8 @@ A e-commerce frontend built with React.js that provides a seamless shopping expe
 
 ## Tech Stack
 - **Frontend Framework**: React.js
-- **State Management**: React Context API
 - **Styling**: Tailwind CSS
-- **Testing**: Jest and React Testing Library
+- **Testing**: React Testing Library
 - **Routing**: React Router
 
 ## Project Structure
@@ -54,12 +53,6 @@ frontend/
    ```bash
    npm run dev
    ```
-
-### Testing
-Run the test suite:
-```bash
-npm test
-```
 
 ## Key Components
 
